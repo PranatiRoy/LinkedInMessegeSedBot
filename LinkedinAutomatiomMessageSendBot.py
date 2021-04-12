@@ -1,5 +1,5 @@
-email = 'pranatimaitypm@gmail.com'
-password = '09903350540'
+email = 'Enter Your Email id'
+password = 'Enter your password'
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 
